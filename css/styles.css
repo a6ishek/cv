@@ -1,0 +1,42 @@
+body{
+   background-color: darkcyan;
+}
+
+hr{
+  border-style: none;
+  border-top: 5px dotted lightgrey;
+  background-color: darkcyan;
+  width: 5%;
+}
+
+h1{
+  color: maroon;
+  font-style: oblique;
+}
+h3{
+  color: darkred;
+  font-style: italic;
+}
+h2{
+  color: darkred;
+  font-style: italic;
+}
+h4{
+  color: darkred;
+  font-style: italic;
+}
+p{
+  color: white;
+}
+li{
+  color: darkgreen;
+}
+td{
+  color:darkgreen;
+}
+th{
+  color:maroon;
+}
+label{
+  color:darkgreen;
+}
